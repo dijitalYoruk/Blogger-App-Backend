@@ -70,3 +70,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Blogger-App
+An API is written for the blogger application. Implemented an OATH2 authentication system using passport. 
+Includes policies, database relationships, migrations, validations... This API is used by the fortend frameworks VueJS.  
