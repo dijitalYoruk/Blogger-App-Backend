@@ -74,3 +74,18 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 ## Blogger-App
 An API is written for the blogger application. Implemented an OATH2 authentication system using passport. 
 Includes policies, database relationships, migrations, validations... This API is used by the fortend frameworks VueJS.  
+
+<img src="README/sample1.png">
+<hr>
+<img src="README/sample2.png">
+<hr>
+<img src="README/sample3.png">
+<hr>
+<img src="README/sample4.png">
+<hr>
+<img src="README/sample5.png">
+<hr>
+<img src="README/sample6.png">
+<hr>
+<img src="README/sample7.png">
+
